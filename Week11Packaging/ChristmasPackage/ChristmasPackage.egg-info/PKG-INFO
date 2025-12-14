@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: ChristmasPackage
+Version: 1.0
+Summary: Our very first unique Christmas Package
+Author: Anthony
+License: MIT
+License-File: LICENSE.txt
+Requires-Dist: wheel
+Requires-Dist: playsound
+Requires-Dist: pygame
+Requires-Dist: requests
+Requires-Dist: Pillow
+Dynamic: author
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

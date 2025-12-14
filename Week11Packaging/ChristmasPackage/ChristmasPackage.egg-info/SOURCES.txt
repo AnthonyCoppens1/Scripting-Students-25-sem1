@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+setup.py
+ChristmasPackage.egg-info/PKG-INFO
+ChristmasPackage.egg-info/SOURCES.txt
+ChristmasPackage.egg-info/dependency_links.txt
+ChristmasPackage.egg-info/requires.txt
+ChristmasPackage.egg-info/top_level.txt
+mypackage/AnthonysLoveJourney.py
+mypackage/__init__.py
+mypackage/christmas.py
+mypackage/simple.py
